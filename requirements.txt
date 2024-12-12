@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.2
+lxml==4.9.3
+matplotlib==3.8.0
+numpy==1.26.0
+ranx==0.7.1
+scipy==1.11.3
+tqdm==4.68.0
